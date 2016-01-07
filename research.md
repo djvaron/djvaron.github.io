@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /research/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: My Research
+description: An overview of my past, present, and future research.
+tags: [research]
 image:
   feature: soft-trees.jpg
 ---
