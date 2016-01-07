@@ -1,6 +1,6 @@
 title:            Daniel Varon
-tagline:          A beautiful theme.
-description:      Describe your website.
+tagline:          
+description:      My personal website.
 canonical: http://www.varon.org
 
 # Owner/author information
@@ -8,13 +8,13 @@ owner:
   name:           Daniel Varon
   avatar:         avatar.png
   bio:            "PhD student"
-  email:          ardwwa@gmail.com
+  email:          danielvaron@g.harvard.edu
   #twitter:        twnsndco
   #github:         coletownsend
   #instagram:      ctrunsthis
   #dribbble:       coletownsend
   #disqus:         balzac
-  location:       "Montreal, QC"
+  location:       "Cambridge, MA"
   # Plug in your disqus shortname!
 
 tools:
