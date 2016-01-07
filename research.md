@@ -2,7 +2,7 @@
 layout: post
 permalink: /research/index.html
 title: My Research
-description: An overview of my past, present, and future research.
+description: An overview of my past, present, and future research projects.
 tags: [research]
 image:
   feature: soft-trees.jpg
