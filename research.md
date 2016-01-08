@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /research/index.html
 title: My Research
 description: An overview of my past, present, and future research projects.
