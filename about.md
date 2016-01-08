@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
-<!-- title: About Me -->
+title: About
 <!-- description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. -->
 tags: [about]
 image:
