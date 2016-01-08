@@ -2,11 +2,13 @@
 layout: post
 permalink: /about/index.html
 title: About Me
-description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard.
+<!-- description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. -->
 tags: [about]
 image:
   feature: soft-trees.jpg
 ---
+
+I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard.
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
