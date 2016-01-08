@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About Me
-description: I'm a PhD student in the Atmospheric Chemistry Modeling Group (ACMG) at Harvard.
+description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard.
 tags: [about]
 image:
   feature: soft-trees.jpg
