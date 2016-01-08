@@ -5,7 +5,7 @@ title: About
 <!-- description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. -->
 tags: [about]
 image:
-  feature: about.JPG
+  feature: about.jpg
 ---
 
 I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard.
