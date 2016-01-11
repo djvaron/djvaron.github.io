@@ -12,4 +12,4 @@ I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group (
 
 I was born and raised in Montr&#233;al, and studied physics (as well as English literature, in a second degree) at McGill University. 
 
-In my spare time, I enjoy reading, hiking, and playing piano (mostly classical, but I sometimes dabble in jazz).
+In my spare time, I enjoy reading, hiking, and playing piano (mostly classical, though I sometimes dabble in jazz).
