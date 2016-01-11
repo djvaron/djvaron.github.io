@@ -1,74 +1,37 @@
-{% if page.image.feature %}
-
 {% include head.html %}
 
-<section class="article">
-
-  <div class="overlay overlay-lighter"></div>
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/atmosphere.jpg)"></div>
-{% else %}
-
-{% include head-dark.html %}
-
-<section class="article pad-top">
-
-{% endif %}
-
-
-      <article class="wrap post">
-        <header class="post-header">
-          <hgroup>
-            <p class="intro">I'm a PhD student studying atmospheric chemistry at Harvard. Feel free to read more <a href="{{ site.url }}/about">about me</a>, view <a href="{{ site.url }}/cv.pdf">my CV</a>, or check out some of <a href="{{ site.url }}/research">my research</a>!</p>
-          </hgroup>
-        </header>
-
-        <!-- <figure><center><img src="/images/me.png" width="30%" height="30%" /></center></figure> -->
-
-      </article>
-    </section>
-    
-    <figure><center><img src="/images/me.png" width="30%" height="30%" /></center></figure>
-    
-</div>
-
-{% include footer.html %}
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- {% include head.html %}
-
-<section class="article">
-  <div class="overlay overlay-lighter"></div>
-  <div class="featured-image" style="background-image: url({{ site.url }}/images/atmosphere.jpg)"></div>
-
- <span class="banner_h">
+<span class="banner_h">
     <img src="images/atmosphere.jpg" alt="banner" />
         <style>
         * {margin:0; padding: 0;}
         .banner_h {display: block; width: 100%;}
         .banner_h img {width:100%}
         </style>
-</span> 
+</span>
 
     <div id='bump'>
-      <article class="wrap post">
+        <section class="article archive">
+          <article class="archive-wrap">
             <p class="intro">I'm a PhD student studying atmospheric chemistry at Harvard. Feel free to read more <a href="{{ site.url }}/about">about me</a>, view <a href="{{ site.url }}/cv.pdf">my CV</a>, or check out some of <a href="{{ site.url }}/research">my research</a>!</p>
             <figure><center><img src="/images/me.png" width="30%" height="30%" /></center></figure>
             <br>
             <br>
             <br>
+<!--              <ol class="post-list">
+                 <lh><h2><span class="bb">Recent Posts</span></h2></lh>
+                  {% for post in site.posts %}
+                  <li>
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+                    </div>
+                  </li>
+                  {% endfor %}
+              </ol>                -->
           </article>
         </section>
     </div>
 
 
-{% include footer.html %} -->
+{% include footer.html %}
