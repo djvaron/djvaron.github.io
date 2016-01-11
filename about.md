@@ -10,7 +10,7 @@ image:
 
 I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. I'm mainly interested in using satellite observations to estimate emissions of greenhouse gases and other air pollutants here on Earth. 
 
-The advent of space-based optical systems has allowed us to monitor the entire globe on a daily basis, including regions where, whether for environmental or political reasons, ground observations are impossible. Data retrieved from these systems continue to play an important role in the production of climate and air quality policy; however, their interpretation is still a highly uncertain area of research. 
+The advent of space-based optical systems has allowed us to monitor the entire globe on a daily basis, including regions where, whether for environmental or political reasons, ground observations are impossible. Data retrieved from these systems continue to play an important role in the production of climate and air quality policy. However, their interpretation remains a highly uncertain area of research. In my research, I hope to contribute to the development of new applications of satellite data, and to help improve our understanding of the Earth system as seen from space.
 
 I was born and raised in Montr&#233;al, Qu&#233;bec, and studied physics (as well as English literature, in a second degree) at McGill University. You can take a look at <a href="{{ site.url }}/cv.pdf">my CV</a> for more details.
 
