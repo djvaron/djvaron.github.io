@@ -2,27 +2,14 @@
 layout: page
 permalink: /about/index.html
 title: About
-<!-- description: I'm a PhD student in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. -->
+description: I'm an Earth science graduate student interested in how satellites can be used to probe planetary atmospheres.
 tags: [about]
 image:
   feature: about.JPG
 ---
 
-I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard.
+I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. I am mainly interested in using satellite observations to estimate emissions of greenhouse gases and other air pollutants.
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+I was born and raised in Montr&#233;al, and studied physics (as well as English literature, in a second degree) at McGill University. 
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
-
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
-
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+In my spare time, I enjoy reading, hiking, and playing piano (mostly classical, but I sometimes dabble in jazz).
