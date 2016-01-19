@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm a graduate student interested in how we can use satellites to probe the atmospheres of Earth and other planets.
+description: I'm a PhD student interested in how we can use satellites to probe the atmospheres of Earth and other planets.
 tags: [about]
 image:
   feature: about.JPG
