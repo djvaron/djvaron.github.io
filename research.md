@@ -16,3 +16,5 @@ In principle, one should expect to see relatively large variability at small tim
 	<img src="ardwwa.github.io/images/macroweather.png">
 	<figcaption>Different scaling regimes. Bottom two panels reflect weather variability, second from top macroweather variability, and top climate variability. Each time series is 720 points long, has had its mean subtracted, and is normalized by its standard deviation. Resolutions from bottom to top are 0.067 seconds, 1 hour, 20 days, and 100 years. From <a href="http://www.earth-syst-dynam.net/4/439/2013/esd-4-439-2013.html">Lovejoy et al. 2013</a>. </figcaption>
 </figure>
+
+blahblah
