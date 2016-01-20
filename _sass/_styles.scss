@@ -476,10 +476,10 @@ header.site-header nav {
         figcaption {
             font-size: $fs5;
             font-family: $sans;
-            font-weight: bold;
-            text-transform: uppercase;
-            color: lighten($black, 50%);
-            text-align: center;
+            font-weight: normal;
+            text-transform: none;
+            color: lighten($black, 75%);
+            text-align: left;
         }
     }
     
