@@ -476,9 +476,9 @@ header.site-header nav {
         figcaption {
             font-size: $fs5;
             font-family: $sans;
-            font-weight: bold;
+            font-weight: 400;
             text-transform: none;
-            color: lighten($black, 75%);
+            color: lighten($black, 50%);
             text-align: left;
         }
     }
