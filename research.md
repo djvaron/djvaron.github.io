@@ -15,6 +15,6 @@ My first research project was also my introduction to atmospheric science. In th
 In principle, one should expect to see relatively large variability at time scales that are comparable to the lifetimes of typical weather systems (on the order of a few hours or days). Zooming out to the scale of months or a few years, however, and removing seasonal trends, variability should decline as fluctuations due to weather average out. Finally, on time scales from decades to centuries and millennia, temperature variability must rise again to reflect, for example, glacial-interglacial cycling. Professor Lovejoy calls these scaling regimes weather, macroweather, and climate, respectively, and each has different statistical properties, as demonstrated in this figure:
 
 <figure>
-	<img src="https://curryja.files.wordpress.com/2013/01/macro.jpg">
+	<img src="/images/macroweather.png">
 	<figcaption>Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</figcaption>
 </figure>
