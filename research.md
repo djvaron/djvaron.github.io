@@ -8,7 +8,7 @@ image:
   feature: satellites.jpg
 ---
 
-I am interested in what satellite remote sensing can teach us about planetary atmospheres. 
+I'm interested in what satellite remote sensing can teach us about planetary atmospheres. 
 
 To me, this topic occupies a natural interface between astrophysics and atmospheric science, the fields of my previous research. In the simplest terms, I am fascinated by the idea that we can learn new (and obscure!) things about a planet, just by looking at it from space.
 
@@ -24,7 +24,7 @@ When the system under scrutiny is an atmosphere and the measurements come from a
 
 ### Current projects
 
-Coming soon...
+Coming soon.
 
 ### Past projects
 
