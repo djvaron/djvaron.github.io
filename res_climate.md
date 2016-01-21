@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/climate/index.html
-title: climate physics research
+title: Research
 description: "First steps in atmospheric science..."
 tags: [research, climate]
 image: 

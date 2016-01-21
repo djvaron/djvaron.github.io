@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/index.html
-title: My Research
+title: Research
 description: An overview of my research interests and experience.
 tags: [research]
 image:
