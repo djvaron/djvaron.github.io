@@ -1,5 +1,6 @@
 ---
 layout: post-light-feature
+permalink: /research/climate
 title: Test Post
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
 categories: articles
