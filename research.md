@@ -28,5 +28,5 @@ Coming soon...
 
 ### Past projects
 
-* Temperature variability and climate
+* [Temperature variability and climate](http://www.varon.org/research/climate/)
 * Star forming galaxies in the RCS2319+00 supercluster
