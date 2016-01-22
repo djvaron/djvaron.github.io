@@ -24,7 +24,7 @@ When the system under scrutiny is an atmosphere and the measurements come from a
 
 ### Current projects
 
-* Plume dispersion modeling 
+* Plume dispersion modeling with CALPUFF
 
 ### Past projects
 
