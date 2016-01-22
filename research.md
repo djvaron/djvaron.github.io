@@ -12,7 +12,7 @@ I'm interested in what satellite remote sensing can teach us about planetary atm
 
 To me, this topic occupies a natural interface between astrophysics and atmospheric science, the fields of my previous research. In the simplest terms, I am fascinated by the idea that we can learn new (and obscure!) things about a planet, just by looking at it from space.
 
-Space-borne instruments have the unique ability to characterize entire planetary atmospheres in a matter of hours or days. As such, they grant access to an abundance of information about the Earth and other planets that would otherwise be out of reach to us---but only if they can be reliably interpreted. Fortunately---or unfortunately, depending on how you look at it---the scientific value of satellite data is often mostly limited by our powers of interpretation, and there is still a great deal of progress to be made in this regard. This is what motivates me in my research.
+Space-borne optical instruments have the unique ability to characterize entire planetary atmospheres in a matter of hours or days. As such, they grant access to an abundance of information about the Earth and other planets that would otherwise be out of reach to us---but only if they can be reliably interpreted. Fortunately---or unfortunately, depending on how you look at it---the scientific value of satellite data is often mostly limited by our powers of interpretation, and there is still a great deal of progress to be made in this regard. This is what motivates me in my research.
 
 <!-- Satellite data is like a mine; what you get out of it is largely dependent on how deep you can dig. Depth, in this analogy, is limited by our powers of interpretation. -->
 
@@ -24,7 +24,7 @@ When the system under scrutiny is an atmosphere and the measurements come from a
 
 ### Current projects
 
-Coming soon.
+* Plume dispersion modeling 
 
 ### Past projects
 
