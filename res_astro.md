@@ -16,5 +16,5 @@ In 2013, Professor Webb's work was largely focused on a rare galaxy supercluster
 
 My job was to quantify the star formation rates of the brightest infrared galaxies in RCS2319. Known as "starburst" galaxies, these galaxies can produce hundreds or thousands of solar masses per year. The first step was to build a database of the galaxies forming the supercluster by selecting objects, based on redshift and coordinates in the plane of the sky, from a large multiwavelength spectroscopic catalogue containing information on over 200,000 celestial objects. I then had to match the selected objects to those in a 250 &mu;m catalogue covering the same area of the sky. In this way, I identified 38 luminous infrared galaxies in the broad supercluster redshift range 0.858 &le; *z* &le; 0.946.
 
-\$$ 0.858 \leq z \leq 0.946 $$
+$$ 0.858 \leq z \leq 0.946 $$
 
