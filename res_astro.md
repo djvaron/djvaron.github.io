@@ -8,7 +8,7 @@ image:
         feature: satellites.jpg
 ---
 
-In the summer of 2013 I took a position as a research assistant in [Professor Tracy Webb's](http://www.physics.mcgill.ca/~webb/) astrophysics group at McGill University. Professor Webb's group studies cosmological structure formation, which is the science of how large-scale structure forms in the universe. 
+In the summer of 2013 I took a position as a research assistant in [Professor Tracy Webb's](http://www.physics.mcgill.ca/~webb/) astrophysics group at McGill University. Professor Webb's group studies cosmological structure formation, which is the science of how large-scale structure grows in the universe. 
 
 I defended our work as [my honours physics thesis](/honphysthesis.pdf), and presented it with a poster at the 2014 Canadian Undergraduate Physics Conference in Kingston, Ontario.
 
