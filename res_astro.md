@@ -8,7 +8,7 @@ image:
         feature: satellites.jpg
 ---
 
-In the <em>summer</em> of 2013 I became a research assistant in [Professor Tracy Webb](http://www.physics.mcgill.ca/~webb/)'s astrophysics group at McGill. Broadly speaking, Professor Webb's group studies cosmological structure formation---the science of how structure, from stars to galaxy clusters, forms in the cosmos. 
+In the summer of 2013 I became a research assistant in [Professor Tracy Webb](http://www.physics.mcgill.ca/~webb/)'s astrophysics group at McGill. Broadly speaking, Professor Webb's group studies cosmological structure formation---the science of how structure, from stars to galaxy clusters, forms in the cosmos. 
 
 The current paradigm is "hierarchical" in that large-scale structures are thought to have formed from gravitationally merging smaller-scale ones. In this picture, stars are the first to form. Over time, they cluster into galaxies, which slowly merge to form galaxy clusters, and so on. Structures of different sizes therefore have different characteristic time scales associated with their formation, with the largest objects taking the longest to materialize. Today, the largest known structures in the universe are galaxy "superclusters," which are clusters of galaxy clusters. They are still in the process of formation.
 
