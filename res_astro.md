@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /research/astro/index.html
 title: Research
 description: "Star forming galaxies in a galaxy supercluster"
