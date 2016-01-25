@@ -29,4 +29,4 @@ When the system under scrutiny is an atmosphere and the measurements come from a
 ### Past projects
 
 * [Temperature variability and climate](http://www.varon.org/research/climate/)
-* [Star forming galaxies in the RCS2319+00 supercluster](http://www.varon.org/research/astro/)
+* [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
