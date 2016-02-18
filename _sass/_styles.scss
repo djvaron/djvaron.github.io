@@ -223,7 +223,7 @@ header.site-header hgroup {
   padding-left: 5vw;
   h1 {
       font-weight: 700;
-      font-size: 24px;
+      font-size: 18px;
       line-height: 100%;
       color: $accent;
       letter-spacing: 2px;
@@ -247,7 +247,7 @@ header.site-header nav {
   @include clearfix;
   
   ul li {
-    font-size: 16px;
+    font-size: 24px;
     text-transform: uppercase;
     display: inline;
     font-weight: bold;
