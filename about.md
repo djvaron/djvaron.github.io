@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in how satellites can be used to probe the atmospheres of Earth and other planets.
+description: I'm interested in using satellites to probe the atmospheres of Earth and other planets.
 tags: [about]
 image:
   feature: about.JPG
