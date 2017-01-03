@@ -29,10 +29,10 @@ links:
  #- title: Github
  #  url: https://github.com/ColeTownsend/Balzac-for-Jekyll
  #  external: true
-  - title: CV
-    url: /cv.pdf
   - title: Research
     url: /research
+  - title: CV
+    url: /cv.pdf
  # - title: Articles
   #  url: /articles
 
