@@ -1,29 +1,44 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1404.47">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #0000ee}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% include head.html %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1">I'm a PhD student studying atmospheric chemistry at Harvard. Feel free to read more <a href="file:///Users/danielvaron/Website/ardwwa.github.io/_layouts/%7B%7B%20site.url%20%7D%7D/about"><span class="s2">about me</span></a>, view <a href="file:///Users/danielvaron/Website/ardwwa.github.io/_layouts/%7B%7B%20site.url%20%7D%7D/cv.pdf"><span class="s2">my CV</span></a>, or check out some of <a href="file:///Users/danielvaron/Website/ardwwa.github.io/_layouts/%7B%7B%20site.url%20%7D%7D/research"><span class="s2">my research</span></a>!</span></p>
-<p class="p4"><span class="s1"></span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% include footer.html %}<span class="Apple-converted-space"> </span></span></p>
-</body>
-</html>
+{% include head.html %}
+
+
+
+<section class="article">
+  
+  <div class="overlay overlay-lighter"></div>
+  <div class="featured-image" style="background-image: url({{ site.url }}/images/atmosphere4.jpg)"></div> 
+
+<!-- <span class="banner_h">
+    <img src="images/atmosphere.jpg" alt="banner" />
+        <style>
+        * {margin:0; padding: 0;}
+        .banner_h {display: block; width: 100%;}
+        .banner_h img {width:100%}
+        </style>
+</span> -->
+
+    <div id='bump'>
+       <!-- <section class="article"> -->
+          <article class="archive-wrap">
+            <p class="intro">I'm a PhD student studying atmospheric chemistry at Harvard. Feel free to read more <a href="{{ site.url }}/about">about me</a>, view <a href="{{ site.url }}/cv.pdf">my CV</a>, or check out some of <a href="{{ site.url }}/research">my research</a>!</p>
+            <figure><center><img src="/images/me.png" width="30%" height="30%" /></center></figure>
+            <br>
+            <br>
+            <br>
+<!--              <ol class="post-list">
+                 <lh><h2><span class="bb">Recent Posts</span></h2></lh>
+                  {% for post in site.posts %}
+                  <li>
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+                    </div>
+                  </li>
+                  {% endfor %}
+              </ol>                -->
+          </article>
+        </section>
+    </div>
+
+
+{% include footer.html %}
