@@ -26,13 +26,13 @@ tools:
 links:
   - title: About
     url: /about
- #- title: Github
- #  url: https://github.com/ColeTownsend/Balzac-for-Jekyll
- #  external: true
+ # - title: Github
+ #   url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+ #   external: true
   - title: Research
     url: /research
-  - title: CV
-    url: /cv.pdf
+ # - title: CV
+ #   url: /cv.pdf
  # - title: Articles
   #  url: /articles
 
