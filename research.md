@@ -4,8 +4,6 @@ permalink: /research/index.html
 title: Research
 description: An overview of my research interests and experience.
 tags: [research]
-image:
-  feature: satellites.jpg
 ---
 
 I'm interested in what satellite remote sensing can teach us about planetary atmospheres. 
