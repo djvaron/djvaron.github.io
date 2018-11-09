@@ -9,12 +9,12 @@ tags: [research]
 
 ### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
 
-### Quantifying methane point sources from space: source rate retrieval algorithm development
+### Source rate retrieval algorithms for quantifying methane point sources from space
 
 ### Previous projects
 
-* [Temperature variability and climate](http://www.varon.org/research/climate/)
-* [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
+[Temperature variability and climate](http://www.varon.org/research/climate/)
+[Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
 
 <!--
 I'm interested in what satellite remote sensing can teach us about planetary atmospheres. 
