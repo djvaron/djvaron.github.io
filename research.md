@@ -11,7 +11,7 @@ I'm training convolutional neural networks to distinguish between methane plumes
 
 ### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
 
-I'm reconstructing time-averaged methane plumes from three coal mines on three continents by aggregating GHGSat-D observations. You can see some [preliminary results here](https://www.ghgsat.com/data-products-analytics/analytics/).
+I'm estimating methane emissions from three coal mines on three continents by aggregating GHGSat-D observations in time. You can see some [preliminary results here](https://www.ghgsat.com/data-products-analytics/analytics/).
 
 ### Source rate retrieval algorithms for quantifying methane point sources from space
 
