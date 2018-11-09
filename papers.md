@@ -26,10 +26,3 @@ Daniel J. Varon
 Shaun Lovejoy, Daniel Schertzer, Daniel J. Varon
 
 <em>Earth System Dynamics</em>, 2013. [PDF](lovejoy_etal_2013_esd.pdf)
-
-<!-- 
-| - | - |
-|---|---|
-| I am text to the left  | ![avatar](/images/avatar.png) |
-| ![avatar](/images/avatar.png) | I am text to the right |
--->
