@@ -13,8 +13,8 @@ tags: [research]
 
 ### Previous projects
 
-&#8658;[Temperature variability and climate](http://www.varon.org/research/climate/) <br>
-&#8658;[Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
+&#8658; [Temperature variability and climate](http://www.varon.org/research/climate/) <br>
+&#8658; [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
 
 <!--
 I'm interested in what satellite remote sensing can teach us about planetary atmospheres. 
