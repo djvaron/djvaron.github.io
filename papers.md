@@ -9,13 +9,15 @@ Quantifying methane point sources from fine-scale satellite observations of atmo
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
 
-
+<br>
+<br>
 
 "The drop fell" -- Time-space compression in <em>The Waves<em>
 
 Daniel J. Varon
 
-
+<br>
+<br>
 
 Do GCMs predict the climate... or macroweather?
 
