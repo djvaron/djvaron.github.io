@@ -2,12 +2,13 @@
 layout: page
 permalink: /research/climate/index.html
 title: Research
-description: "First steps in atmospheric science..."
+description: "Temperature variability and climate"
 tags: [research, climate]
 ---
 
-My first research project was also my introduction to atmospheric science. In the summer of 2011 I took an undergraduate RA position in [Professor Shaun Lovejoy's](http://www.physics.mcgill.ca/~gang/Lovejoy.htm) climate physics group at McGill University, where I learned the importance of scale in understanding climate. Over the course of two years, I looked at how various general circulation models (GCMs) predicted temperature should fluctuate on different time scales, from hours to centuries. 
+In 2011 I did research in climate physics with [Professor Shaun Lovejoy](http://www.physics.mcgill.ca/~gang/Lovejoy.htm) at McGill. We looked at predictions from four general circulation models of global temperature fluctuatations on different time scales, from hours to centuries. We found that while last-millennium simulations underestimated temperature variability in control runs, they were more realistic in the industrial period when including external forcings (<em>e.g.</em>, volcanic or solar). In pre-industrial scenarios, however, multicentennial variability appeared to be underestimated, possibly due to the lack of certain slow climate processes in the models, like land ice. If you're interested in learning more, you can download our paper from <em>Earth System Dynamics</em>: [Do GCMs predict the climate... or macroweather?](http://www.earth-syst-dynam.net/4/439/2013/esd-4-439-2013.html).
 
+<!--
 In principle, one should expect to see relatively large variability at time scales comparable to the lifetimes of typical weather systems (on the order of a few hours or days). Zooming out to the scale of months or a few years, however, and removing seasonal trends, variability should decline as fluctuations due to weather average out. Finally, on time scales from decades to centuries and millennia, temperature variability must rise again to reflect long-term trends (e.g., glacial-interglacial cycling). Professor Lovejoy calls these scaling regimes "weather," "macroweather," and "climate," respectively. Each of them has different statistical properties:
 
 <figure>
@@ -16,5 +17,4 @@ In principle, one should expect to see relatively large variability at time scal
 </figure>
 
 We wanted to know how well different GCMs could capture these scaling statistics, so we took a variety of temperature time series from four different models---the coupled ocean-atmosphere model [ECHO-G](http://www.ipcc-data.org/ar4/model-CONS-ECHO-G-change.html); the Max Planck Institute Earth System Model ([MPI-ESM](http://www.mpimet.mpg.de/en/science/models/mpi-esm.html)); the Goddard Institute for Space Studies model ([GISS-E2-R](http://data.giss.nasa.gov/modelE/ar5/)); and NOAA's 20th-Century Reanalysis model ([20CR](http://www.esrl.noaa.gov/psd/data/20thC_Rean/))---and plotted the characteristic magnitudes of their fluctuations against time scale. 
-
-We found that last-millennium simulations only reproduced macroweather in control runs, but were more realistic in the industrial period when including external forcings (e.g., volcanic or solar). However, in pre-industrial scenarios, multicentennial variability appeared to be underestimated, possibly due to the lack of certain slow climate processes, like land ice, in the models. Our results were published in the peer-reviewed journal <em>Earth System Dynamics</em>: [Do GCMs predict the climate... or macroweather?](http://www.earth-syst-dynam.net/4/439/2013/esd-4-439-2013.html)
+-->
