@@ -9,7 +9,7 @@ tags: [research]
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
 
-<em>Atmospheric Measurement Techniques</em>, 2018. 
+<em>Atmospheric Measurement Techniques</em>, 2018. [PDF](/papers/varon_etal_2018_amt.pdf)
 
 <br>
 
@@ -17,15 +17,15 @@ Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan
 
 Daniel J. Varon
 
-<em>The Virginia Woolf Miscellany</em>, 2015.
+<em>The Virginia Woolf Miscellany</em>, 2015. [PDF](vwm86fall2014winter2015.pdf)
 
 <br>
 
 [Do GCMs predict the climate... or macroweather?](https://doi.org/10.5194/esd-4-439-2013)
 
-Shawn Lovejoy, Daniel Schertzer, Daniel J. Varon
+Shaun Lovejoy, Daniel Schertzer, Daniel J. Varon
 
-<em>Earth System Dynamics</em>, 2013.
+<em>Earth System Dynamics</em>, 2013. [PDF](lovejoy_etal_2013_esd.pdf)
 
 <!-- 
 | - | - |
