@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /papers/index.html
 title: "Papers"
 tags: [papers]
