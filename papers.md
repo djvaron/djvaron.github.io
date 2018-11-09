@@ -7,7 +7,7 @@ tags: [research]
 
 ### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
 
-Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
+*Daniel J. Varon*, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
 
 <em>Atmospheric Measurement Techniques</em>, 2018. [PDF](/papers/varon_etal_2018_amt.pdf)
 
@@ -23,7 +23,7 @@ Daniel J. Varon
 
 ### [Do GCMs predict the climate... or macroweather?](https://doi.org/10.5194/esd-4-439-2013)
 
-Shaun Lovejoy, Daniel Schertzer, Daniel J. Varon
+Shaun Lovejoy, Daniel Schertzer, *Daniel J. Varon*
 
 <em>Earth System Dynamics</em>, 2013. [PDF](lovejoy_etal_2013_esd.pdf)
 
