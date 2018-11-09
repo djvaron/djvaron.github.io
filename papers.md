@@ -11,6 +11,7 @@ Quantifying methane point sources from fine-resolution satellite observations of
 
 Do GCMs predict the climate... or macroweather?
 
-aa|bb|cc
---|--|--
-ee|ff|gg 
+| - | - |
+|---|---|
+| I am text to the left  | ![avatar](/images/avatar.png) |
+| ![avatar](/images/avatar.png) | I am text to the right |
