@@ -11,8 +11,6 @@ Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan
 
 Atmospheric Measurement Techniques, 2018
 
-[{% icon fa-institution %} AMT](https://doi.org/10.5194/amt-11-5673-2018)
-
 <br>
 <br>
 
