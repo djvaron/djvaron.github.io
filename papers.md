@@ -7,8 +7,6 @@ tags: [research]
 
 ### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
 
-<img style="float: left;" src="/images/avatar.png">
-
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
 
 <em>Atmospheric Measurement Techniques</em>, 2018. [PDF](/papers/varon_etal_2018_amt.pdf)
