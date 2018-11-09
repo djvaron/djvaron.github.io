@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /papers/index.html
-title: "Papers"
+title: Papers
 description: My publications.
-tags: [papers]
+tags: [research]
 ---
 
 Quantifying methane point sources from fine-resolution satellite observations of individual methane plumes
