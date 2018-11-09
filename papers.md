@@ -9,7 +9,7 @@ Quantifying methane point sources from fine-scale satellite observations of atmo
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang
 
-Atmospheric Measurement Techniques 2018
+Atmospheric Measurement Techniques, 2018
 
 [{% icon fa-institution %} AMT](https://doi.org/10.5194/amt-11-5673-2018)
 
@@ -20,12 +20,16 @@ Atmospheric Measurement Techniques 2018
 
 Daniel J. Varon
 
+The Virginia Woolf Miscellany, 2015
+
 <br>
 <br>
 
 Do GCMs predict the climate... or macroweather?
 
 Shawn Lovejoy, Daniel Schertzer, Daniel J. Varon
+
+Earth System Dynamics, 2013
 
 <!-- 
 | - | - |
