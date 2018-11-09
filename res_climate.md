@@ -4,8 +4,6 @@ permalink: /research/climate/index.html
 title: Research
 description: "First steps in atmospheric science..."
 tags: [research, climate]
-image: 
-        feature: satellites.jpg
 ---
 
 My first research project was also my introduction to atmospheric science. In the summer of 2011 I took an undergraduate RA position in [Professor Shaun Lovejoy's](http://www.physics.mcgill.ca/~gang/Lovejoy.htm) climate physics group at McGill University, where I learned the importance of scale in understanding climate. Over the course of two years, I looked at how various general circulation models (GCMs) predicted temperature should fluctuate on different time scales, from hours to centuries. 
