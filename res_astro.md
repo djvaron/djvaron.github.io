@@ -3,7 +3,7 @@ layout: page
 permalink: /research/astro/index.html
 title: Research
 description: "Star forming galaxies in a galaxy supercluster"
-tags: [research, astrophysics]
+tags: [daniel varon, research, astrophysics]
 ---
 
 In 2013, I did research in astrophysics with [Professor Tracy Webb](http://www.physics.mcgill.ca/~webb/) at McGill. Professor Webb studies cosmological structure formation, which is the science of how large-scale structures grow in the universe. 

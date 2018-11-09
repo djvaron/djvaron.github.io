@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/index.html
 title: Research
-tags: [research]
+tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 ---
 
 ### Machine learning tools for detecting methane plumes in noisy satellite data

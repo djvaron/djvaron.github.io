@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/index.html
 title: Papers
-tags: [research]
+tags: [daniel varon, methane, satellites, climate, research]
 ---
 
 ### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
