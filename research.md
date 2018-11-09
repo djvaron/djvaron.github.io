@@ -7,14 +7,20 @@ tags: [research]
 
 ### Machine learning tools for detecting methane plumes in noisy satellite data
 
+I'm training convolutional neural networks to distinguish between methane plumes and measurement artifacts in GHGSat satellite observations.
+
 ### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
+
+I'm reconstructing time-averaged methane plumes from three coal mines on three continents by aggregating GHGSat-D observations. You can see some preliminary results [here](https://www.ghgsat.com/data-products-analytics/analytics/).
 
 ### Source rate retrieval algorithms for quantifying methane point sources from space
 
+I developed algorithms for retrieving source rates from fine-resolution satellite imagery of atmospheric methane plumes. This work was published in <em>Atmospheric Measurement Techniques</em>. You can check out the paper [here](https://doi.org/10.5194/amt-11-5673-2018).
+
 ### Previous projects
 
-&#10146; [Temperature variability and climate](http://www.varon.org/research/climate/) <br>
 &#10146; [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
+&#10146; [Temperature variability and climate](http://www.varon.org/research/climate/) <br>
 
 <!--
 I'm interested in what satellite remote sensing can teach us about planetary atmospheres. 
