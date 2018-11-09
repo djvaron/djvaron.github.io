@@ -6,7 +6,7 @@ description: "Temperature variability and climate"
 tags: [daniel varon, research, climate]
 ---
 
-In 2011, I did research in climate physics with [Professor Shaun Lovejoy](http://www.physics.mcgill.ca/~gang/Lovejoy.htm) at McGill. We looked at predictions from four general circulation models of global temperature fluctuatations on different time scales, from hours to centuries. 
+In 2011, I did research in geophysics with [Professor Shaun Lovejoy](http://www.physics.mcgill.ca/~gang/Lovejoy.htm) at McGill. We looked at predictions from four general circulation models of global temperature fluctuatations on different time scales, from hours to centuries. 
 
 We found that while last-millennium simulations underestimated temperature variability in control runs, they were more realistic in the industrial period when including external forcings (<em>e.g.</em>, volcanic or solar). In pre-industrial scenarios, however, multicentennial variability appeared to be underestimated, possibly due to a lack of certain slow climate processes in the models, like land ice. If you're interested in learning more, you can download our paper from <em>Earth System Dynamics</em>: [Do GCMs predict the climate... or macroweather?](http://www.earth-syst-dynam.net/4/439/2013/esd-4-439-2013.html).
 
