@@ -14,7 +14,7 @@ In the Webb group, I studied a rare galaxy supercluster called RCS2319+00, which
 
 My project was to quantify the star formation rates of the brightest infrared galaxies in RCS2319. These "starburst" galaxies can produce hundreds to thousands of stars per year. First, I built a database of galaxies in the supercluster by picking them out of a catalogue of over 200,000 celestial objects. Then I matched them with objects in an infrared catalogue covering the same area of the sky. In total, I identified 38 luminous infrared galaxies in the supercluster. Finally to estimate their star formation rates, I fit an infrared galaxy model to each of their spectra. All in all, I estimated the RCS2319 was forming about 2100 solar masses per year.
 
-If you're interested in learning more, feel free to flip through my undergraduate [physics thesis](/honphysthesis.pdf). 
+If you're interested in learning more, feel free to check out my undergraduate [physics thesis](/honphysthesis.pdf). 
 
 <!-- 
 and presented it with a poster at the 2014 Canadian Undergraduate Physics Conference in Kingston, Ontario.
