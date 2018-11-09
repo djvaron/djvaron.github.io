@@ -13,8 +13,7 @@ tags: [research]
 
 ### Previous projects
 
-[Temperature variability and climate](http://www.varon.org/research/climate/)
-
+[Temperature variability and climate](http://www.varon.org/research/climate/) <br>
 [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)
 
 <!--
