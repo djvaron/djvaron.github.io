@@ -6,7 +6,7 @@ description: I'm interested in using information from satellites to help steer p
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I'm a PhD student working with Professor Daniel Jacob in the [Atmospheric Chemistry Modeling Group](http://acmg.seas.harvard.edu/) at Harvard. We've teamed up with [GHGSat, Inc.](https://www.ghgsat.com/) to develop technology for monitoring greenhouse gas emissions at the facility level from space.
+I'm a PhD student working with Professor Daniel Jacob in the [Atmospheric Chemistry Modeling Group](http://acmg.seas.harvard.edu/) at Harvard. We've teamed up with [GHGSat, Inc.](https://www.ghgsat.com/) to develop technologies for monitoring facility-level greenhouse gas emissions from space.
 
 <!-- 
 Space-based instruments have allowed us to monitor the entire globe on a daily basis, including regions where ground observations may be impossible. Data retrieved from these instruments continue to play an important role in the production of climate and air quality policy. However, interpreting it is a highly uncertain area of research. My goal is to develop new techniques for processing satellite data that will improve our understanding of the Earth as seen from space.
