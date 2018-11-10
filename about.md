@@ -6,7 +6,7 @@ description: I'm interested in using information derived from satellite observat
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. I'm mainly interested in using satellite observations to estimate emissions of greenhouse gases and other air pollutants on Earth. 
+I'm a PhD student working with Professor Daniel Jacob in the [Atmospheric Chemistry Modeling Group](http://acmg.seas.harvard.edu/)) at Harvard. We've teamed up with [GHGSat, Inc.](https://www.ghgsat.com/) to develop algorithms for monitoring greenhouse gas emissions from space using fine-resolution satellite observations.
 
 <!-- 
 Space-based instruments have allowed us to monitor the entire globe on a daily basis, including regions where ground observations may be impossible. Data retrieved from these instruments continue to play an important role in the production of climate and air quality policy. However, interpreting it is a highly uncertain area of research. My goal is to develop new techniques for processing satellite data that will improve our understanding of the Earth as seen from space.
