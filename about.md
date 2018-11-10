@@ -2,7 +2,6 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in using information derived from satellite observations to protect the environment.
 tags: [daniel varon, methane, satellites, about]
 ---
 
