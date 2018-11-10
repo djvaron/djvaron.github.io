@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in using satellites to study the atmospheres of Earth and other planets.
+description: I'm interested in using information derived from satellite observations to improve lives.
 tags: [daniel varon, methane, satellites, about]
 ---
 
