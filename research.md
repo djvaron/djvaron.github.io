@@ -15,7 +15,7 @@ I'm estimating methane emissions from coal mines in the United States, China, an
 
 ### Source rate retrieval algorithms for quantifying methane point sources from space
 
-I developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can check out [the paper here](https://doi.org/10.5194/amt-11-5673-2018).
+I developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can check out [my paper here](https://doi.org/10.5194/amt-11-5673-2018).
 
 ### Previous projects
 
