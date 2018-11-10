@@ -4,8 +4,6 @@ permalink: /about/index.html
 title: About
 description: I'm interested in using satellites to study the atmospheres of Earth and other planets.
 tags: [daniel varon, methane, satellites, about]
-image:
-  feature: about.JPG
 ---
 
 I work with Professor Daniel Jacob in the Atmospheric Chemistry Modeling Group ([ACMG](http://acmg.seas.harvard.edu/)) at Harvard. I'm mainly interested in using satellite observations to estimate emissions of greenhouse gases and other air pollutants on Earth. 
