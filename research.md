@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/index.html
 title: Research
-Description: I'm interested in using information from satellites to help businesses and policymakers better protect the environment.
+description: I'm interested in using information from satellites to help businesses and policymakers better protect the environment.
 tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 ---
 
