@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in using information from satellites to help businesses and policymakers better protect the environment.
+description: I'm interested in using information from satellites to help steer policy and protect the environment.
 tags: [daniel varon, methane, satellites, about]
 ---
 
