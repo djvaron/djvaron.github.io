@@ -12,6 +12,7 @@ I'm training convolutional neural networks to distinguish between methane plumes
 ![thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
 <br>
+<br>
 
 ### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
 
@@ -20,6 +21,7 @@ I'm estimating methane emissions from coal mines in the United States, China, an
 ![thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
 
 <br>
+<br>
 
 ### Source rate retrieval algorithms for quantifying methane point sources from space
 
@@ -27,6 +29,7 @@ I developed algorithms for retrieving emission rates from fine-resolution satell
 
 ![thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
 
+<br>
 <br>
 
 ### Previous projects
