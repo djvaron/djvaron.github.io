@@ -7,21 +7,30 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 
 ### Machine learning tools for detecting methane plumes in noisy satellite data
 
+![thumb3](../images/thumb3_projects.png){:height="200px" width="200px"}
+
 I'm training convolutional neural networks to distinguish between methane plumes and measurement artifacts in GHGSat satellite observations. .
 
-![thumb3](../images/thumb3_projects.png){:height="200px" width="200px"}
-<!-- <figure><center><img src="/images/thumb3_projects.png" width="300" /></center></figure>-->
-
+<br>
+<br>
 
 ### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
 
+![thumb2](../images/thumb2_projects.png){:height="200px" width="200px"}
+
 I'm estimating methane emissions from coal mines in the United States, China, and Australia by aggregating GHGSat-D observations in time. You can see some [preliminary results here](https://www.ghgsat.com/data-products-analytics/analytics/).
 
+<br>
+<br>
 
 ### Source rate retrieval algorithms for quantifying methane point sources from space
 
+![thumb1](../images/thumb1_projects.png){:height="200px" width="200px"}
+
 I developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can read more about them in [this paper](https://doi.org/10.5194/amt-11-5673-2018).
 
+<br>
+<br>
 
 ### Previous projects
 
