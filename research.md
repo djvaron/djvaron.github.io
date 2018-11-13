@@ -6,7 +6,6 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 ---
 
 <br>
-<br>
 
 ### Machine learning tools for detecting methane plumes in noisy satellite data
 

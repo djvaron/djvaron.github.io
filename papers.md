@@ -5,6 +5,8 @@ title: Papers
 tags: [daniel varon, methane, satellites, climate, research]
 ---
 
+<br>
+
 ### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang <br>
