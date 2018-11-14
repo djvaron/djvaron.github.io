@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 
 ### Machine learning tools for detecting methane plumes in noisy satellite data
 
-I'm training convolutional neural networks to distinguish between methane plumes and measurement artifacts in GHGSat satellite observations.
+I'm training convolutional neural networks to localize methane plumes in noisy GHGSat satellite observations.
 
 ![thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
