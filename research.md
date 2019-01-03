@@ -9,7 +9,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 
 I'm training convolutional neural networks to localize methane plumes in noisy GHGSat satellite observations.
 
-![thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
@@ -18,7 +18,7 @@ I'm training convolutional neural networks to localize methane plumes in noisy G
 
 I'm estimating methane emissions from underground coal mines in the United States, China, and Australia by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out [my 2018 AGU poster](/presentations/varon_poster_agu2018.pdf) for details.
 
-![thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
@@ -27,7 +27,7 @@ I'm estimating methane emissions from underground coal mines in the United State
 
 I developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can read more about them in [this paper](https://doi.org/10.5194/amt-11-5673-2018).
 
-![thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
