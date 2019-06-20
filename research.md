@@ -34,7 +34,7 @@ I developed algorithms for retrieving emission rates from fine-resolution satell
 
 ### Previous projects
 
-&#10146; [Star forming galaxies in a galaxy supercluster](http://www.varon.org/research/astro/)<br>
+&#10146; [Star forming galaxies in a merging galaxy supercluster](http://www.varon.org/research/astro/)<br>
 &#10146; [Temperature variability and climate](http://www.varon.org/research/climate/)
 
 <!--
