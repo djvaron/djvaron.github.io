@@ -1,1 +1,1 @@
-This is my personal website [https://www.varon.org/](https://www.varon.org/). It's based on the Jekyll theme "Balzac" designed by [Cole Townsend](https://twnsnd.co/).
+This is my personal website [https://www.varon.org/](https://www.varon.org/). It uses the [Balzac] Jekyll theme (https://github.com/ColeTownsend/Balzac-for-Jekyll) designed by [Cole Townsend](https://twnsnd.co/).
