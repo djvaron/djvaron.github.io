@@ -8,7 +8,7 @@ tags: [daniel varon, methane, satellites, climate, research]
 ### [Satellite discovery of anomalously large methane point sources from oil/gas production](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798)
 
 Daniel J. Varon, Jason McKeever, Dylan Jervis, Joannes D. Maasakkers, Sudhanshu Pandey, Sander Houweling, Ilse Aben, Tia Scarpelli, and Daniel J. Jacob <br>
-<em></em>, 2019.
+<em>Geophysical Research Letters</em>, 2019.
 <br>
 <br>
 
