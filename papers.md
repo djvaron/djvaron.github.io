@@ -5,6 +5,13 @@ title: Papers
 tags: [daniel varon, methane, satellites, climate, research]
 ---
 
+### [Satellite discovery of anomalously large methane point sources from oil/gas production](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798)
+
+Daniel J. Varon, Jason McKeever, Dylan Jervis, Joannes D. Maasakkers, Sudhanshu Pandey, Sander Houweling, Ilse Aben, Tia Scarpelli, and Daniel J. Jacob <br>
+<em></em>, 2019.
+<br>
+<br>
+
 ### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, and Yi Huang <br>
