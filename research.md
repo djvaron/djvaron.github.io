@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 
 ### Satellite monitoring of anomalous methane point sources in oil/gas fields
 
-I helped quantify massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. This was a collaboration between Harvard, GHGSat, and the Netherlands Institute for Space Research (SRON). Read more about it in [our 2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
+I helped quantify massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. This was a collaboration between Harvard, GHGSat, and the SRON Netherlands Institute for Space Research. Read more about it in [our 2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
 
 ![daniel varon methane satellite harvard plume thumb4](../images/thumb4_projects.png){:height="250px" width="250px"}
 
