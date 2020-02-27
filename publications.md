@@ -1,9 +1,16 @@
 ---
 layout: page
-permalink: /papers/index.html
-title: Papers
+permalink: /publications/index.html
+title: Publications
 tags: [daniel varon, methane, satellites, climate, research]
 ---
+
+### Quantifying time-averaged methane emissions from individual coal mine vents using GHGSat-D satellite observations
+
+Daniel J. Varon, Daniel J. Jacob, Dylan Jervis, Jason McKeever
+<em>Environmental Science and Technology</em>,submitted.
+<br>
+<br>
 
 ### [Satellite discovery of anomalously large methane point sources from oil/gas production](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798)
 
