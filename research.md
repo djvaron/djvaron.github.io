@@ -5,7 +5,16 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research]
 ---
 
-### Satellite monitoring of anomalous methane point sources in oil/gas fields
+### Estimating methane emissions from individual coal mine vents using GHGSat-D satellite observations
+
+I estimated time-averaged methane emissions from underground coal mines in the United States, China, and Australia by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out my [2020 ES&T paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213) for the full story. 
+
+![daniel varon methane satellite harvard plume thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
+
+<br>
+<br>
+
+### Monitoring anomalous methane point sources in oil/gas fields with satellites
 
 I helped quantify massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. This was a collaboration between Harvard, GHGSat, and the SRON Netherlands Institute for Space Research. Read more about it in [our 2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
 
@@ -19,15 +28,6 @@ I helped quantify massive methane point sources in an oil/gas field using the [G
 I'm training convolutional neural networks to localize methane plumes in noisy GHGSat satellite observations.
 
 ![daniel varon methane satellite harvard plume thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
-
-<br>
-<br>
-
-### Estimating methane emissions from coal mine vents using GHGSat-D satellite observations
-
-I'm estimating methane emissions from underground coal mines in the United States, China, and Australia by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out [my 2018 AGU poster](/presentations/varon_poster_agu2018.pdf) for details and these [Bloomberg](https://www.bloomberg.com/news/articles/2019-04-17/new-wave-of-satellites-could-pinpoint-greenhouse-gas-offenders) and [Scientific American](https://www.scientificamerican.com/article/private-space-race-targets-greenhouse-gas-emitters/) articles for the big picture.
-
-![daniel varon methane satellite harvard plume thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
