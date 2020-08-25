@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in using satellite instruments to generate actionable information about the environment.
+description: I'm interested in using satellites to generate actionable information about the environment.
 tags: [daniel varon, methane, satellites, about]
 ---
 
