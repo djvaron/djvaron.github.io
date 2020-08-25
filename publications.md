@@ -33,9 +33,11 @@ Daniel J. Varon <br>
 <br>
 <br>
 
+<!---
 ### [Do GCMs predict the climate... or macroweather?](https://doi.org/10.5194/esd-4-439-2013)
 
 Shaun Lovejoy, Daniel Schertzer, Daniel J. Varon <br>
 <em>Earth System Dynamics</em>, 2013. [PDF](lovejoy_etal_2013_esd.pdf)
 <br>
 <br>
+-->
