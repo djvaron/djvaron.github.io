@@ -5,6 +5,14 @@ title: Publications
 tags: [daniel varon, methane, satellites, climate, research]
 ---
 
+### High-frequency monitoring of anomalous methane point sources with
+multispectral Sentinel-2 satellite observations
+
+Daniel J. Varon, Dylan Jervis, Jason McKeever, Ian Spence, David Gains, Daniel J. Jacob <br>
+Submitted to <em>Atmospheric Measurement Techniques</em>, 2020. [PDF](/papers/varon_etal_s2.pdf)
+<br>
+<br>
+
 ### [Quantifying time-averaged methane emissions from individual coal mine vents with GHGSat-D satellite observations](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213)
 
 Daniel J. Varon, Daniel J. Jacob, Dylan Jervis, Jason McKeever <br>
