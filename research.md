@@ -2,14 +2,23 @@
 layout: page
 permalink: /research/index.html
 title: Research
-tags: [daniel varon, methane, satellites, machine learning, emissions, research]
+tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
+
+### Monitoring methane point sources with multispectral Sentinel-2 satellite observations
+
+We demonstrate the previously undocumented capability of the Sentinel-2 twin satellites (and Landsat) to detect and quantify strong methane point sources. See [our paper](https://amt.copernicus.org/preprints/amt-2020-477/) in discussion at AMT for the details.
+
+![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb4](../images/thumb5_projects.png){:height="250px" width="250px"}
+
+<br>
+<br>
 
 ### Estimating methane emissions from individual coal mine vents using GHGSat-D satellite observations
 
 We estimated time-averaged methane emissions from underground coal mines in the United States, China, and Australia by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out our [2020 ES&T paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213) for the full story. 
 
-![daniel varon methane satellite harvard plume thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
@@ -18,7 +27,7 @@ We estimated time-averaged methane emissions from underground coal mines in the 
 
 We quantified massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. This was a collaboration between Harvard, GHGSat, and the SRON Netherlands Institute for Space Research. Read more about it in our [2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
 
-![daniel varon methane satellite harvard plume thumb4](../images/thumb4_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb4](../images/thumb4_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
@@ -27,7 +36,7 @@ We quantified massive methane point sources in an oil/gas field using the [GHGSa
 
 We're training convolutional neural networks to localize methane plumes in noisy GHGSat satellite observations.
 
-![daniel varon methane satellite harvard plume thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
@@ -36,7 +45,7 @@ We're training convolutional neural networks to localize methane plumes in noisy
 
 We developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can read more about them in our [2018 AMT paper](https://doi.org/10.5194/amt-11-5673-2018).
 
-![daniel varon methane satellite harvard plume thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
+![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
