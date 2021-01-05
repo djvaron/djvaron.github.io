@@ -9,7 +9,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 We demonstrate the previously undocumented capability of the Sentinel-2 twin satellites (and Landsat) to detect and quantify anomalous methane point sources. See [our paper](https://amt.copernicus.org/preprints/amt-2020-477/) in discussion at AMT for the details.
 
-![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb4](../images/thumb6_projects.png){:height="250px" width="250px"}
+![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb4](../images/thumb7_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
