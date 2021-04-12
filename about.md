@@ -10,5 +10,5 @@ I'm a postdoctoral researcher working with Daniel Jacob in the [Atmospheric Chem
 
 I was born and raised in Montr&#233;al, Qu&#233;bec, and studied physics and English literature at McGill before coming to Harvard. 
 
-In my spare time, I enjoy reading (especially science fiction), hiking, and---most of all---playing piano.
+<!--In my spare time, I enjoy reading (especially science fiction), hiking, and---most of all---playing piano.-->
 
