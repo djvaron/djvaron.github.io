@@ -12,5 +12,5 @@ I was born and raised in Montr&#233;al, Qu&#233;bec, and studied physics and Eng
 
 <!--In my spare time, I enjoy reading (especially science fiction), hiking, and---most of all---playing piano.-->
 
-Google Scholar [profile](https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao)
+[Google Scholar profile](https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao)
 
