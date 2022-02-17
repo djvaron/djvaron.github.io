@@ -5,11 +5,20 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
 
+### Enabling easy access to analytical inversions of TROPOMI methane observations on the cloud
+
+We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions by inversion of TROPOMI satellite data. See [our paper](https://acmg.seas.harvard.edu/files/acmg/files/varon2022.pdf) in review at GMD for the details.
+
+![daniel varon methane tropomi satellite harvard plume thumb8](../images/thumb8_projects.png){:height="250px" width="250px"}
+
+<br>
+<br>
+
 ### Monitoring methane point sources with multispectral Sentinel-2 satellite observations
 
 We demonstrated the previously undocumented capability of the Sentinel-2 twin satellites (and Landsat) to detect and quantify anomalous methane point sources. See [our paper](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html) in AMT for the details.
 
-![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb4](../images/thumb7_projects.png){:height="250px" width="250px"}
+![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb7](../images/thumb7_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>

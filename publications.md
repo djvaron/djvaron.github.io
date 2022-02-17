@@ -5,6 +5,13 @@ title: Publications
 tags: [daniel varon, methane, satellites, climate, research]
 ---
 
+### [Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://acmg.seas.harvard.edu/files/acmg/files/varon2022.pdf)
+
+Daniel J. Varon, Daniel J. Jacob, Melissa Sulprizio, Lucas A. Estrada, William B. Downs, Lu Shen, Sarah E. Hancock, Hannah Nesser, Zhen Qu, Elise Penn, Zichong Chen, Xiao Lu, Alba Lorente, Ashutosh Tewari, and Cynthia A. Randles <br>
+<em>Geoscientific Model Development</em>, in review. [PDF](https://acmg.seas.harvard.edu/files/acmg/files/varon2022.pdf)
+<br>
+<br>
+
 ### [High-frequency monitoring of anomalous methane point sources with multispectral Sentinel-2 satellite observations](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html)
 
 Daniel J. Varon, Dylan Jervis, Jason McKeever, Ian Spence, David Gains, Daniel J. Jacob <br>
