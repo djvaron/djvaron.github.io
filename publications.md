@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-tags: [daniel varon, methane, satellites, climate, research]
+tags: [daniel varon, methane, satellites, climate, research, imi]
 ---
 
 ### [Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://acmg.seas.harvard.edu/files/acmg/files/varon2022.pdf)
