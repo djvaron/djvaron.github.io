@@ -15,7 +15,7 @@ Daniel J. Varon, Daniel J. Jacob, Melissa Sulprizio, Lucas A. Estrada, William B
 ### [High-frequency monitoring of anomalous methane point sources with multispectral Sentinel-2 satellite observations](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html)
 
 Daniel J. Varon, Dylan Jervis, Jason McKeever, Ian Spence, David Gains, Daniel J. Jacob <br>
-<em>Atmospheric Measurement Techniques Discussions</em>, 2020. [PDF](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.pdf)
+<em>Atmospheric Measurement Techniques</em>, 2021. [PDF](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.pdf)
 <br>
 <br>
 
