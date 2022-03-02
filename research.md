@@ -5,7 +5,7 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
 
-### Enabling easy access to analytical inversions of TROPOMI methane data on the cloud
+### Enabling easy access to analytical inversions of TROPOMI methane observations on the cloud
 
 We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions using TROPOMI satellite data. See [our paper](https://gmd.copernicus.org/preprints/gmd-2022-45/) in GMDD for the details.
 

@@ -8,7 +8,7 @@ tags: [daniel varon, methane, satellites, climate, research, imi]
 ### [Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/preprints/gmd-2022-45/)
 
 Daniel J. Varon, Daniel J. Jacob, Melissa Sulprizio, Lucas A. Estrada, William B. Downs, Lu Shen, Sarah E. Hancock, Hannah Nesser, Zhen Qu, Elise Penn, Zichong Chen, Xiao Lu, Alba Lorente, Ashutosh Tewari, and Cynthia A. Randles <br>
-<em>Geoscientific Model Development Discussions</em>. [PDF](https://gmd.copernicus.org/preprints/gmd-2022-45/gmd-2022-45.pdf)
+<em>Geoscientific Model Development Discussions</em>, 2022. [PDF](https://gmd.copernicus.org/preprints/gmd-2022-45/gmd-2022-45.pdf)
 <br>
 <br>
 
