@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 ### Enabling easy access to analytical inversions of TROPOMI methane observations on the cloud
 
-We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions using TROPOMI satellite data. See [our paper](https://gmd.copernicus.org/preprints/gmd-2022-45/) in GMDD for the details.
+We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions from TROPOMI satellite data: Integrated Methane Inversion (IMI). See [the IMI website](https://imi.seas.harvard.edu/) for details.
 
 ![daniel varon methane tropomi satellite harvard plume thumb8](../images/thumb8_projects.png){:height="250px" width="250px"}
 
