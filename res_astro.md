@@ -6,7 +6,7 @@ description: "Star forming galaxies in a galaxy supercluster"
 tags: [daniel varon, research, astrophysics]
 ---
 
-In 2013, I did research in astrophysics with [Professor Tracy Webb](http://www.physics.mcgill.ca/~webb/) at McGill. Professor Webb studies cosmological structure formation, which is the science of how large-scale structures grow in the universe. 
+In 2013, I did astrophysics research with [Professor Tracy Webb](http://www.physics.mcgill.ca/~webb/) at McGill. Professor Webb studies cosmological structure formation, which is the science of how large-scale structures grow in the universe. 
 
 This field is full of open questions, but the current paradigm is that large-scale structures formed from gravitationally merging small-scale structures. In this hierarchical picture, stars formed earliest. Clusters of stars went on to form the first galaxies, and galaxies eventually merged into galaxy clusters. Today, the largest known structures in the universe are galaxy superclusters, which are clusters of galaxy clusters. Most of them are still in the process of forming.
 
