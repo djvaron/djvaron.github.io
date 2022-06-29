@@ -52,7 +52,7 @@ We're training convolutional neural networks to localize methane plumes in noisy
 
 ### Algorithms for quantifying methane point sources from space
 
-We developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can read more about them in our [2018 AMT paper](https://doi.org/10.5194/amt-11-5673-2018).
+We developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. Read more about them in our [2018 AMT paper](https://doi.org/10.5194/amt-11-5673-2018).
 
 ![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb1](../images/thumb1_projects.png){:height="250px" width="250px"}
 
