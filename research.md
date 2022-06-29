@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 ### Enabling easy access to analytical inversions of TROPOMI methane observations on the cloud
 
-We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions from TROPOMI satellite data: Integrated Methane Inversion (IMI). See [the IMI website](https://imi.seas.harvard.edu/) for details.
+We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions using TROPOMI satellite data: Integrated Methane Inversion (IMI). See [the IMI website](https://imi.seas.harvard.edu/) for details.
 
 ![daniel varon methane tropomi satellite harvard plume imilogo](../images/imi_logo_small.png){:height="250px" width="250px"}
 
@@ -16,7 +16,7 @@ We built a user-friendly cloud-computing tool for researchers and stakeholders t
 
 ### Monitoring methane point sources with multispectral Sentinel-2 satellite observations
 
-We demonstrated the previously undocumented capability of the Sentinel-2 twin satellites (and Landsat) to detect and quantify anomalous methane point sources. See [our paper](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html) in AMT for the details.
+We showed how the Sentinel-2 twin satellites (and Landsat) can detect and quantify anomalously large methane point sources. See [our paper](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html) in AMT for the details.
 
 ![daniel varon methane sentinel-2 sentinel satellite harvard plume thumb7](../images/thumb7_projects.png){:height="250px" width="250px"}
 
@@ -25,7 +25,7 @@ We demonstrated the previously undocumented capability of the Sentinel-2 twin sa
 
 ### Estimating methane emissions from individual coal mine vents using GHGSat-D satellite observations
 
-We estimated time-averaged methane emissions from underground coal mines in the United States, China, and Australia by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out our [2020 ES&T paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213) for the full story. 
+We estimated time-averaged methane emissions from individual underground coal mines by aggregating [GHGSat-D observations](https://www.ghgsat.com/data-products-analytics/analytics/) in time. Check out our [2020 ES&T paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213) for the full story. 
 
 ![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb2](../images/thumb2_projects.png){:height="250px" width="250px"}
 
@@ -34,7 +34,7 @@ We estimated time-averaged methane emissions from underground coal mines in the 
 
 ### Monitoring anomalous methane point sources in oil/gas fields with satellites
 
-We quantified massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. This was a collaboration between Harvard, GHGSat, and the SRON Netherlands Institute for Space Research. Read more about it in our [2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
+We quantified massive methane point sources in an oil/gas field using the [GHGSat-D](https://www.ghgsat.com/who-we-are/our-satellites/claire/) and [TROPOMI](http://www.tropomi.eu/) satellite instruments. Read more about it in our [2019 GRL paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798).
 
 ![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb4](../images/thumb4_projects.png){:height="250px" width="250px"}
 
@@ -43,14 +43,14 @@ We quantified massive methane point sources in an oil/gas field using the [GHGSa
 
 ### Deep learning for detecting methane plumes in noisy satellite imagery
 
-We're training convolutional neural networks to localize methane plumes in noisy GHGSat satellite observations.
+We're training convolutional neural networks to localize methane plumes in noisy GHGSat satellite data.
 
 ![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
 <br>
 <br>
 
-### Source rate retrieval algorithms for quantifying methane point sources from space
+### Algorithms for quantifying methane point sources from space
 
 We developed algorithms for retrieving emission rates from fine-resolution satellite observations of atmospheric methane plumes. You can read more about them in our [2018 AMT paper](https://doi.org/10.5194/amt-11-5673-2018).
 
