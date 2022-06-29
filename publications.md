@@ -43,7 +43,7 @@ Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan
 ### ["The drop fell" -- Time-space compression in <em>The Waves</em>](https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-fall-2014winter-2015-issue-86/)
 
 Daniel J. Varon <br>
-<em>The Virginia Woolf Miscellany</em>, 2015. [PDF](vwm86fall2014winter2015.pdf)
+<em>The Virginia Woolf Miscellany</em>, 2015. [PDF](/papers/vwm86fall2014winter2015.pdf)
 <br>
 <br>
 
