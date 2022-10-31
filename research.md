@@ -5,6 +5,15 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
 
+### Continuous weekly monitoring of Permian methane emissions with TROPOMI
+
+We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the world's largest oil production region. See [our manuscript](../papers/varon_permian_kalman_filter_submitted.pdf) for more information.
+
+![daniel varon methane tropomi satellite harvard plume imilogo](../images/kf_permian_image.png){:height="250px" width="250px"}
+
+<br>
+<br>
+
 ### Enabling easy access to analytical inversions of TROPOMI methane observations on the cloud
 
 We built a user-friendly cloud-computing tool for researchers and stakeholders to estimate high-resolution regional methane emissions using TROPOMI satellite data: Integrated Methane Inversion (IMI). See [the IMI website](https://imi.seas.harvard.edu/) for details.
