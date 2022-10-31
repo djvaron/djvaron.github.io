@@ -5,6 +5,14 @@ title: Publications
 tags: [daniel varon, methane, satellites, climate, research, imi]
 ---
 
+### [Continuous weekly monitoring of methane emissions from the Permian Basin by inversion of TROPOMI satellite observations](https://www.varon.org/papers/varon_permian_kalman_filter_submitted.pdf)
+
+Daniel J. Varon, Daniel J. Jacob, Benjamin Hmiel, Ritesh Gautam, David R. Lyon, Mark Omara, Melissa Sulprizio, Lu Shen, Drew Pendergrass, Hannah Nesser, Zhen Qu, Zachary R. Barkley, Natasha L. Miles, Scott J. Richardson, Kenneth J. Davis, Sudhanshu Pandey, Xiao Lu, Alba
+Lorente, Tobias Borsdorff, Joannes D. Maasakkers, Ilse Aben <br>
+<em>Atmospheric Chemistry and Physics</em>, submitted, 2022. [PDF](https://www.varon.org/papers/varon_permian_kalman_filter_submitted.pdf)
+<br>
+<br>
+
 ### [Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/articles/15/5787/2022/gmd-15-5787-2022.html)
 
 Daniel J. Varon, Daniel J. Jacob, Melissa Sulprizio, Lucas A. Estrada, William B. Downs, Lu Shen, Sarah E. Hancock, Hannah Nesser, Zhen Qu, Elise Penn, Zichong Chen, Xiao Lu, Alba Lorente, Ashutosh Tewari, and Cynthia A. Randles <br>
