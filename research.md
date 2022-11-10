@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 ### Continuous weekly monitoring of Permian Basin methane emissions with TROPOMI
 
-We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the world's largest oil production region. See [our manuscript](../papers/varon_permian_kalman_filter_submitted.pdf) for more information.
+We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the world's largest oil production region. See [our manuscript](https://acp.copernicus.org/preprints/acp-2022-749/) for more information.
 
 ![daniel varon methane tropomi satellite harvard plume kfpermian](../images/kf_permian_image.png){:height="250px" width="250px"}
 
