@@ -31,8 +31,8 @@ links:
  #   external: true
   - title: Research
     url: /research
- # - title: CV
- #   url: /cv.pdf
+  - title: CV
+    url: /daniel_varon_cv.pdf
   - title: Publications
     url: /publications
 
