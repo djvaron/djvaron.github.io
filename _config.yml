@@ -31,10 +31,10 @@ links:
  #   external: true
   - title: Research
     url: /research
-  - title: CV
-    url: /daniel_varon_cv.pdf
   - title: Publications
     url: /publications
+  - title: CV
+    url: /daniel_varon_cv.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
