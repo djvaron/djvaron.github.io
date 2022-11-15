@@ -13,45 +13,45 @@ Lorente, Tobias Borsdorff, Joannes D. Maasakkers, and Ilse Aben <br>
 <br>
 <br>
 
-### [Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations](https://gmd.copernicus.org/articles/15/5787/2022/gmd-15-5787-2022.html)
+### <a href="https://gmd.copernicus.org/articles/15/5787/2022/gmd-15-5787-2022.html" target="_blank">Integrated Methane Inversion (IMI 1.0): A user-friendly, cloud-based facility for inferring high-resolution methane emissions from TROPOMI satellite observations</a>
 
 Daniel J. Varon, Daniel J. Jacob, Melissa Sulprizio, Lucas A. Estrada, William B. Downs, Lu Shen, Sarah E. Hancock, Hannah Nesser, Zhen Qu, Elise Penn, Zichong Chen, Xiao Lu, Alba Lorente, Ashutosh Tewari, and Cynthia A. Randles <br>
-<em>Geoscientific Model Development</em>, 2022. [PDF](https://gmd.copernicus.org/articles/15/5787/2022/gmd-15-5787-2022.pdf)
+<em>Geoscientific Model Development</em>, 2022. <a href="https://gmd.copernicus.org/articles/15/5787/2022/gmd-15-5787-2022.pdf" target="_blank">PDF</a>
 <br>
 <br>
 
-### [High-frequency monitoring of anomalous methane point sources with multispectral Sentinel-2 satellite observations](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html)
+### <a href="https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.html" target="_blank">High-frequency monitoring of anomalous methane point sources with multispectral Sentinel-2 satellite observations</a>
 
 Daniel J. Varon, Dylan Jervis, Jason McKeever, Ian Spence, David Gains, Daniel J. Jacob <br>
-<em>Atmospheric Measurement Techniques</em>, 2021. [PDF](https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.pdf)
+<em>Atmospheric Measurement Techniques</em>, 2021. <a href="https://amt.copernicus.org/articles/14/2771/2021/amt-14-2771-2021.pdf" target="_blank">PDF</a>
 <br>
 <br>
 
-### [Quantifying time-averaged methane emissions from individual coal mine vents with GHGSat-D satellite observations](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213)
+### <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01213" target="_blank">Quantifying time-averaged methane emissions from individual coal mine vents with GHGSat-D satellite observations</a>
 
 Daniel J. Varon, Daniel J. Jacob, Dylan Jervis, Jason McKeever <br>
-<em>Environmental Science and Technology</em>, 2020. [PDF](/papers/varon_etal_2020_est.pdf)
+<em>Environmental Science and Technology</em>, 2020. <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.est.0c01213" target="_blank">PDF</a>
 <br>
 <br>
 
-### [Satellite discovery of anomalously large methane point sources from oil/gas production](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798)
+### <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083798" target="_blank">Satellite discovery of anomalously large methane point sources from oil/gas production</a>
 
 Daniel J. Varon, Jason McKeever, Dylan Jervis, Joannes D. Maasakkers, Sudhanshu Pandey, Sander Houweling, Ilse Aben, Tia Scarpelli, Daniel J. Jacob <br>
-<em>Geophysical Research Letters</em>, 2019. [PDF](/papers/varon_etal_2019_grl.pdf)
+<em>Geophysical Research Letters</em>, 2019. <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GL083798" target="_blank">PDF</a>
 <br>
 <br>
 
-### [Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes](https://doi.org/10.5194/amt-11-5673-2018)
+### <a href="https://doi.org/10.5194/amt-11-5673-2018" target="_blank">Quantifying methane point sources from fine-scale satellite observations of atmospheric methane plumes</a>
 
 Daniel J. Varon, Daniel J. Jacob, Jason McKeever, Dylan Jervis, Berke Durak, Yan Xia, Yi Huang <br>
-<em>Atmospheric Measurement Techniques</em>, 2018. [PDF](/papers/varon_etal_2018_amt.pdf)
+<em>Atmospheric Measurement Techniques</em>, 2018. <a href="https://amt.copernicus.org/articles/11/5673/2018/amt-11-5673-2018.pdf" target="_blank">PDF</a>
 <br>
 <br>
 
-### ["The drop fell" -- Time-space compression in <em>The Waves</em>](https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-fall-2014winter-2015-issue-86/)
+### <a href="https://virginiawoolfmiscellany.wordpress.com/virginia-woolf-miscellany-fall-2014winter-2015-issue-86/" target="_blank">"The drop fell" -- Time-space compression in <em>The Waves</em></a>
 
 Daniel J. Varon <br>
-<em>The Virginia Woolf Miscellany</em>, 2015. [PDF](/papers/vwm86fall2014winter2015.pdf)
+<em>The Virginia Woolf Miscellany</em>, 2015. <a href="/papers/vwm86fall2014winter2015.pdf" target="_blank">PDF</a>
 <br>
 <br>
 
