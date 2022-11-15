@@ -6,7 +6,7 @@ description: I'm interested in using satellites to generate actionable informati
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I'm a postdoctoral research fellow in the [Atmospheric Chemistry Modeling Group](http://acmg.seas.harvard.edu/) at Harvard. I focus on satellite remote sensing of atmospheric methane and NO<sub>2</sub>. 
+I'm a postdoctoral research fellow in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard. I focus on satellite remote sensing of atmospheric methane and NO<sub>2</sub>. 
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
