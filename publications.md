@@ -9,7 +9,7 @@ tags: [daniel varon, methane, satellites, climate, research, imi]
 
 Daniel J. Varon, Daniel J. Jacob, Benjamin Hmiel, Ritesh Gautam, David R. Lyon, Mark Omara, Melissa Sulprizio, Lu Shen, Drew Pendergrass, Hannah Nesser, Zhen Qu, Zachary R. Barkley, Natasha L. Miles, Scott J. Richardson, Kenneth J. Davis, Sudhanshu Pandey, Xiao Lu, Alba
 Lorente, Tobias Borsdorff, Joannes D. Maasakkers, and Ilse Aben <br>
-<em>Atmospheric Chemistry and Physics</em>, submitted, 2022. <a href="https://acp.copernicus.org/preprints/acp-2022-749/acp-2022-749.pdf" target="_blank">PDF</a>
+<em>Atmospheric Chemistry and Physics Discussions</em>, 2022. <a href="https://acp.copernicus.org/preprints/acp-2022-749/acp-2022-749.pdf" target="_blank">PDF</a>
 <br>
 <br>
 
