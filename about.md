@@ -2,11 +2,13 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm interested in using satellites to generate actionable information about the environment.
+description: I'm interested in using satellites to help mitigate climate change and air pollution.
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I'm a postdoctoral research fellow in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard. I focus on satellite remote sensing of atmospheric methane and NO<sub>2</sub>. 
+I'm a postdoctoral research fellow in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard. 
+
+My work revolves around satellite remote sensing of atmospheric composition and what it can teach us about the connections between human activity, atmospheric chemistry, and climate change. A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. More recently, I've begun to investigate opportunities for monitoring NO<sub>2</sub> point sources from space. 
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
