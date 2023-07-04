@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 ### Observing methane from geostationary orbit
 
-We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of a large, 3-hour methane release from a natural gas pipeline in Mexico. Check out <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">our preprint</a> for the full story.
+We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of a large methane release from a natural gas pipeline in Mexico. Check out <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">our preprint</a> for the full story.
 
 ![daniel varon methane GOES satellite harvard plume goesthumb](../images/goes-thumb.png){:height="250px" width="250px"}
 
