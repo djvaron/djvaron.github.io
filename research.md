@@ -5,9 +5,18 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
 
+### Observing methane from geostationary orbit
+
+We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of a large, 3-hour methane release from a natural gas pipeline in Mexico. Check out <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">our preprint</a> for the full story.
+
+![daniel varon methane GOES satellite harvard plume goesthumb](../images/goes-thumb.png){:height="250px" width="250px"}
+
+<br>
+<br>
+
 ### Continuous weekly monitoring of Permian Basin methane emissions with TROPOMI
 
-We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the largest oil-producing basin in the United States. See <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">our manuscript</a> for more information.
+We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the largest oil-producing basin in the United States. See <a href="https://eartharxiv.org/repository/view/5600/" target="_blank">our manuscript</a> for more information.
 
 ![daniel varon methane tropomi satellite harvard plume kfpermian](../images/kf_permian_image.png){:height="250px" width="250px"}
 
