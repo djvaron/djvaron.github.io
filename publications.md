@@ -5,6 +5,13 @@ title: Publications
 tags: [daniel varon, methane, satellites, climate, research, imi]
 ---
 
+### <a href="https://eartharxiv.org/repository/view/5600/" target="_blank">Geostationary satellite observations of extreme methane emissions from a natural gas pipeline</a>
+
+Marc Watine-Guiu, Daniel J. Varon, Itziar Irakulis-Loitxate, Nicholas Balasus, and Daniel J. Jacob<br>
+<a href="https://eartharxiv.org/repository/view/5600/" target="_blank">Preprint</a>
+<br>
+<br>
+
 ### <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">Continuous weekly monitoring of methane emissions from the Permian Basin by inversion of TROPOMI satellite observations</a>
 
 Daniel J. Varon, Daniel J. Jacob, Benjamin Hmiel, Ritesh Gautam, David R. Lyon, Mark Omara, Melissa Sulprizio, Lu Shen, Drew Pendergrass, Hannah Nesser, Zhen Qu, Zachary R. Barkley, Natasha L. Miles, Scott J. Richardson, Kenneth J. Davis, Sudhanshu Pandey, Xiao Lu, Alba

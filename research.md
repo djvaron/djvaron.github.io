@@ -61,7 +61,7 @@ We discovered massive methane point sources in an oil/gas field using the GHGSat
 
 ### Deep learning for detecting methane plumes in noisy satellite imagery
 
-We're training convolutional neural networks to localize methane plumes in noisy satellite data.
+We're training convolutional neural networks to localize methane plumes in noisy satellite data. Here's a first <a href="https://acmg.seas.harvard.edu/sites/projects.iq.harvard.edu/files/acmg/files/bruno2023.pdf" target="_blank">preprint</a> on a U-Net to detect plumes in GHGSat data.
 
 ![daniel varon methane satellite harvard plume sentinel-2 sentinel thumb3](../images/thumb3_projects.png){:height="250px" width="250px"}
 
