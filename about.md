@@ -6,7 +6,7 @@ description: I'm interested in using satellites to help mitigate climate change 
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I'm a postdoctoral research fellow in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard. 
+I'm a Research Associate in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard University. 
 
 My work revolves around satellite remote sensing of atmospheric composition and what it can teach us about the connections between human activity, atmospheric chemistry, and climate change. 
 
