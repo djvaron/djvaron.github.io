@@ -16,7 +16,7 @@ We used NOAA's Geostationary Operational Environmental Satellites (GOES) to moni
 
 ### Continuous weekly monitoring of Permian Basin methane emissions with TROPOMI
 
-We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the largest oil-producing basin in the United States. See <a href="https://acp.copernicus.org/preprints/acp-2022-749/" target="_blank">our manuscript</a> for more information.
+We used a Kalman filter to quantify weekly regional methane emissions from the Permian Basin, the largest oil-producing basin in the United States. See <a href="https://doi.org/10.5194/acp-23-7503-2023" target="_blank">our paper</a> for more information.
 
 ![daniel varon methane tropomi satellite harvard plume kfpermian](../images/kf_permian_image.png){:height="250px" width="250px"}
 
