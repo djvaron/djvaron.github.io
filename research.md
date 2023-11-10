@@ -5,6 +5,15 @@ title: Research
 tags: [daniel varon, methane, satellites, machine learning, emissions, research, sentinel-2, sentinel]
 ---
 
+### Quantifying individual NOx point sources from space
+
+We show how Landsat and Sentinel-2 can map and quantify NOx plumes from individual power plants at 10-60 m resolution. See <a href="https://acmg.seas.harvard.edu/sites/projects.iq.harvard.edu/files/acmg/files/varon_2023_submitted.pdf" target="_blank">our preprint</a> for the retrieval algorithm and demonstration.
+
+![daniel varon NO2 NOx Landsat Sentinel-2 satellite harvard plume no2thumb](../images/no2-thumb.png){:height="250px" width="250px"}
+
+<br>
+<br>
+
 ### Observing methane from geostationary orbit
 
 We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of a large methane release from a natural gas pipeline in Mexico. Check out <a href="https://eartharxiv.org/repository/view/5600/" target="_blank">our preprint</a> for the full story.
