@@ -10,7 +10,7 @@ I'm a Research Associate in the <a href="http://acmg.seas.harvard.edu/" target="
 
 My work revolves around satellite remote sensing of atmospheric composition and what it can teach us about the connections between human activity, atmospheric chemistry, and climate change. 
 
-A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. More recently, I've started investigating opportunities for monitoring NO<sub>2</sub> point sources from space. 
+A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. More recently, I've started investigating opportunities for monitoring NO<sub>x</sub> point sources from space. 
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
