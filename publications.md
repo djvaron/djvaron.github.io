@@ -15,7 +15,7 @@ Daniel J. Varon, Dylan Jervis, Sudhanshu Pandey, Sebastian L. Gallardo, Nicholas
 ### <a href="https://www.pnas.org/doi/10.1073/pnas.2310797120" target="_blank">Geostationary satellite observations of extreme and transient methane emissions from oil and gas infrastructure</a>
 
 Marc Watine-Guiu, Daniel J. Varon, Itziar Irakulis-Loitxate, Nicholas Balasus, and Daniel J. Jacob<br>
-<em>Proceedings of the National Academy of Sciences</em>, 2023.<a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2310797120" target="_blank">PDF</a>
+<em>Proceedings of the National Academy of Sciences</em>, 2023. <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2310797120" target="_blank">PDF</a>
 <br>
 <br>
 
