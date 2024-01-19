@@ -16,7 +16,7 @@ We show how Landsat and Sentinel-2 can map and quantify NO2 plumes from individu
 
 ### Observing methane from geostationary orbit
 
-We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of a large methane release from a natural gas pipeline in Mexico. Check out <a href="https://eartharxiv.org/repository/view/5600/" target="_blank">our preprint</a> for the full story.
+We used NOAA's Geostationary Operational Environmental Satellites (GOES) to monitor the 5-minute evolution of extreme methane releases from oil and gas infrastructure in Mexico and the US. Check out <a href="https://www.pnas.org/doi/10.1073/pnas.2310797120" target="_blank">our paper</a> for the full story.
 
 ![daniel varon methane GOES satellite harvard plume goesthumb](../images/goes-thumb.png){:height="250px" width="250px"}
 
