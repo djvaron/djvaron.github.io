@@ -5,10 +5,10 @@ title: Publications
 tags: [daniel varon, methane, satellites, climate, research, imi]
 ---
 
-### <a href="https://acmg.seas.harvard.edu/sites/projects.iq.harvard.edu/files/acmg/files/varon_2023_submitted.pdf" target="_blank">Quantifying NOx point sources with Landsat and Sentinel-2 satellite observations of NO2 plumes</a>
+### Quantifying NOx point sources with Landsat and Sentinel-2 satellite observations of NO2 plumes
 
 Daniel J. Varon, Dylan Jervis, Sudhanshu Pandey, Sebastian L. Gallardo, Nicholas Balasus, Laura H. Yang, and Daniel J. Jacob<br>
-<a href="https://acmg.seas.harvard.edu/sites/projects.iq.harvard.edu/files/acmg/files/varon_2023_submitted.pdf" target="_blank">Preprint</a>
+<em>Proceedings of the National Academy of Sciences</em>, accepted, 2024.
 <br>
 <br>
 
