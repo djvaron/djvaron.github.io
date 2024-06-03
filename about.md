@@ -14,11 +14,19 @@ A major focus has been on quantifying atmospheric methane emissions and trends a
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
-## General interests and classical piano
+#### General interests and classical piano
 
 <figure>
-  <figcaption>My studio recordings:</figcaption>
+  <figcaption>Alexander Scriabin, Op. 11, #2 in A Minor</figcaption>
   <audio controls src="/media/Scriabin_Op11_No2_in_A_Minor.mp3"></audio>
+</figure>
+<figure>
+  <figcaption>Alexander Scriabin, Op. 11, #10 in C# Minor</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No10_in_C_Minor.mp3"></audio>
+</figure>
+<figure>
+  <figcaption>Alexander Scriabin, Op. 11, #20 in C Minor</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No20_in_C_Minor.mp3"></audio>
 </figure>
 
 <a href="https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao"
