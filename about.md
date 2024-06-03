@@ -14,6 +14,13 @@ A major focus has been on quantifying atmospheric methane emissions and trends a
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
+## General interests and classical piano
+
+<figure>
+  <figcaption>My studio recordings:</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No2_in_A_Minor.mp3"></audio>
+</figure>
+
 <a href="https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao"
    class="social-icon si-rounded si-small si-googlescholar" target="_blank">
    <i class="ai ai-google-scholar-square ai-3x" style="font-size:32px"></i></a>
