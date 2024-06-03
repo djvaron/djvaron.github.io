@@ -27,7 +27,7 @@ See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.u
    class="social-icon si-rounded si-small si-linkedin" target="_blank">
    <i class="fa fa-linkedin-square" style="font-size:32px"></i></a>
 
-#### Classical piano studio recordings:
+### Classical piano studio recordings
 
 <figure>
   <figcaption>Alexander Scriabin, Op. 11, #2 in A Minor</figcaption>
