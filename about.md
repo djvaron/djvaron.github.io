@@ -14,6 +14,23 @@ A major focus has been on quantifying atmospheric methane emissions and trends a
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
+### General interests and piano recordings
+
+I'm passionate about science, music, and science fiction of all forms (literature, film, games). I studied physics, English literature, and classical piano performance as an undergrad, and still enjoy these things as a hobbyist today. Here are some studio recordings I did of short pieces (preludes) by one of my favorite composers, <a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a>:
+
+<figure>
+  <figcaption>Scriabin, Op. 11, #2 in A Minor</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No2_in_A_Minor.mp3"></audio>
+</figure>
+<figure>
+  <figcaption>Scriabin, Op. 11, #10 in C# Minor</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No10_in_C_Minor.mp3"></audio>
+</figure>
+<figure>
+  <figcaption>Scriabin, Op. 11, #20 in C Minor</figcaption>
+  <audio controls src="/media/Scriabin_Op11_No20_in_C_Minor.mp3"></audio>
+</figure>
+
 <a href="https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao"
    class="social-icon si-rounded si-small si-googlescholar" target="_blank">
    <i class="ai ai-google-scholar-square ai-3x" style="font-size:32px"></i></a>
@@ -26,18 +43,3 @@ See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.u
 <a href="https://www.linkedin.com/in/daniel-varon-051b9914b/"
    class="social-icon si-rounded si-small si-linkedin" target="_blank">
    <i class="fa fa-linkedin-square" style="font-size:32px"></i></a>
-
-### Classical piano studio recordings
-
-<figure>
-  <figcaption>Alexander Scriabin, Op. 11, #2 in A Minor</figcaption>
-  <audio controls src="/media/Scriabin_Op11_No2_in_A_Minor.mp3"></audio>
-</figure>
-<figure>
-  <figcaption>Alexander Scriabin, Op. 11, #10 in C# Minor</figcaption>
-  <audio controls src="/media/Scriabin_Op11_No10_in_C_Minor.mp3"></audio>
-</figure>
-<figure>
-  <figcaption>Alexander Scriabin, Op. 11, #20 in C Minor</figcaption>
-  <audio controls src="/media/Scriabin_Op11_No20_in_C_Minor.mp3"></audio>
-</figure>
