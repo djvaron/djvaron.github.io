@@ -16,7 +16,7 @@ See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.u
 
 ### General interests and piano recordings
 
-I'm passionate about science, music, and fiction of all forms (literature, film, games). I studied physics, English literature, and classical piano performance as an undergrad, and still enjoy these things as a hobbyist today. Here are some studio recordings I did of short pieces by one of my favorite composers, <a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a>:
+I'm passionate about science, music, and fiction of all forms (literature, film, games). I studied physics, English literature, and classical piano performance as an undergrad, and still enjoy these things as a hobbyist today. Here are some studio recordings I did of short piano pieces by one of my favorite composers, <a href="https://en.wikipedia.org/wiki/Alexander_Scriabin" target="_blank">Alexander Scriabin</a>:
 
 <figure>
   <figcaption>Scriabin, Op. 11, #2 in A Minor</figcaption>
