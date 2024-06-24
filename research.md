@@ -7,7 +7,7 @@ tags: [daniel varon, methane, satellites, machine learning, emissions, research,
 
 ### Quantifying individual NOx point sources from space
 
-We show how Landsat and Sentinel-2 can map and quantify NO2 plumes from individual power plants at 10-60 m resolution. Our paper documenting the retrieval algorithm and demonstrations has been accepted for publication in <em>PNAS</em>.
+We show how Landsat and Sentinel-2 can map and quantify NO2 plumes from individual power plants at 10-60 m resolution. See <a href="https://www.pnas.org/doi/10.1073/pnas.2317077121" target="_blank">our paper</a> documenting the retrieval algorithm and demonstrations.
 
 ![daniel varon NO2 NOx Landsat Sentinel-2 satellite harvard plume no2thumb](../images/no2-thumb.png){:height="250px" width="250px"}
 
