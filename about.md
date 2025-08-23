@@ -31,7 +31,7 @@ I'm passionate about science, music, and fiction of all forms (literature, film,
   <audio controls src="/media/Scriabin_Op11_No20_in_C_Minor.mp3"></audio>
 </figure>
 
-<a href="https://scholar.google.com/citations?user=9rXfafMAAAAJ&hl=en&oi=ao"
+<a href="https://scholar.google.com/citations?user=NX6L7kkAAAAJ&hl=en&oi=ao"
    class="social-icon si-rounded si-small si-googlescholar" target="_blank">
    <i class="ai ai-google-scholar-square ai-3x" style="font-size:32px"></i></a>
 <a href="https://github.com/djvaron" 
