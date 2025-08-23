@@ -6,11 +6,11 @@ description: I'm interested in using satellites to help mitigate climate change 
 tags: [daniel varon, methane, satellites, about]
 ---
 
-I'm a Research Associate in the <a href="http://acmg.seas.harvard.edu/" target="_blank">Atmospheric Chemistry Modeling Group</a> at Harvard University. In July 2025, I'll join the MIT faculty as an Assistant Professor in the Department of Aeronautics and Astronautics and the Institute for Data, Systems, and Society.
+I'm an Assistant Professor at MIT with dual appointments in the Department of Aeronautics and Astronautics and Institute for Data, Systems, and Society.
 
-My work revolves around satellite remote sensing of atmospheric composition and what it can teach us about the connections between human activity, atmospheric chemistry, and climate change. 
+My work revolves around satellite remote sensing of atmospheric composition and how we can use it to help mitigate human impacts on the environment. 
 
-A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. More recently, I've started investigating opportunities for monitoring NO<sub>x</sub> point sources from space. 
+A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. Another is on observing nitrogen oxides at high (meter-scale) resolution from space. 
 
 See my <a href="{{ site.url }}/research">research page</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
