@@ -29,10 +29,10 @@ links:
  # - title: Github
  #   url: https://github.com/ColeTownsend/Balzac-for-Jekyll
  #   external: true
-  - title: Research
-    url: /research
-  - title: Publications
-    url: /publications
+ # - title: Research
+ #   url: /research
+ # - title: Publications
+ #   url: /publications
   - title: CV
     url: /daniel_varon_cv.pdf
     external: true
