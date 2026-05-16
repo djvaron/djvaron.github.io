@@ -8,7 +8,7 @@ image:
   feature: eo-symposium-crop.jpg
 ---
 
-I'm an Assistant Professor at MIT with a shared appointment in the Department of Aeronautics and Astronautics and the Institute for Data, Systems, and Society.
+I'm an assistant professor at MIT with a shared appointment in the Department of Aeronautics and Astronautics and the Institute for Data, Systems, and Society.
 
 My work revolves around satellite remote sensing of atmospheric composition and how we can use it to help mitigate human impacts on the environment. 
 
