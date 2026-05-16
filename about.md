@@ -4,6 +4,8 @@ permalink: /about/index.html
 title: About
 description: I'm interested in using satellites to help mitigate climate change and air pollution.
 tags: [daniel varon, methane, satellites, about]
+image:
+  feature: eo-symposium-crop.jpg
 ---
 
 I'm an Assistant Professor at MIT with a shared appointment in the Department of Aeronautics and Astronautics and the Institute for Data, Systems, and Society.
