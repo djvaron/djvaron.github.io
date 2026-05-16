@@ -10,7 +10,7 @@ I'm an Assistant Professor at MIT with a shared appointment in the Department of
 
 My work revolves around satellite remote sensing of atmospheric composition and how we can use it to help mitigate human impacts on the environment. 
 
-A major focus has been on quantifying atmospheric methane emissions and trends across a range of scales. Another is on observing nitrogen oxides at meter-scale resolution from space. 
+A major focus is on quantifying atmospheric methane emissions and trends across scales. Another is on advancing high-resolution observations of air pollution.
 
 See my <a href="https://varon.mit.edu/">lab website</a> or <a href="{{ site.url }}/daniel_varon_cv.pdf" target="_blank">CV</a> for more information.
 
